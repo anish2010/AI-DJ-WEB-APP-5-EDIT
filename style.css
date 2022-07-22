@@ -1,0 +1,17 @@
+.heading{
+    font-size: 25px;
+    color: white;
+    width: 100%;
+}
+
+#note{
+    font-size: 15px;
+    color: black;
+}
+.play_button{
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid lemonchiffon;
+    border-radius: 20px;
+}
